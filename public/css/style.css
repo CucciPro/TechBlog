@@ -1,9 +1,9 @@
 :root {
-  --primary: salmon;
+  --primary: rgb(231, 255, 210);
   --secondary: lightgray;
   --tertiary: #788585;
   --light-dark: #6f6866;
-  --dark: #38302e;
+  --dark: #21160f;
   --border-radius: 0.2rem;
 }
 
