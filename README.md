@@ -32,7 +32,7 @@ This project is licensed under the [mit](https://choosealicense.com/licenses/mit
 
 ## Mock
 
-![Mock](https://github.com/CucciPro/TechBlog/blob/master/assets/images/demo.gif)
+![Mock](https://github.com/CucciPro/TechBlog/blob/master/public/assets/images/demo.gif)
 
 ## Questions
 
