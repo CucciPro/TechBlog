@@ -30,6 +30,10 @@ Basic blog. Sign up and then login. Create posts from dashboard. Comment on post
 
 This project is licensed under the [mit](https://choosealicense.com/licenses/mit) license.
 
+## Live Deployment
+
+[Techligh Blog](https://techlite-blog.herokuapp.com/)
+
 ## Mock
 
 ![Mock](https://github.com/CucciPro/TechBlog/blob/master/public/assets/images/demo.gif)
