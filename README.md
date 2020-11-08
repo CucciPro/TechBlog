@@ -32,7 +32,7 @@ This project is licensed under the [mit](https://choosealicense.com/licenses/mit
 
 ## Live Deployment
 
-[Techligh Blog](https://techlite-blog.herokuapp.com/)
+[Techlight Blog](https://techlite-blog.herokuapp.com/)
 
 ## Mock
 
